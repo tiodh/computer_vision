@@ -891,8 +891,7 @@ for idx, data in enumerate(digits.images[0:10]):
 
 ##### Hold-out
 
-<img src="README_files/hold-out.png" width="400" height="80">
-
+![png](README_files/hold-out.png)
 
 ```python
 from sklearn.model_selection import train_test_split
@@ -1061,8 +1060,7 @@ for i in digits.target_names:
 
 #### Cross Validation
 
-<img src="README_files/cross_validation.png" width="500" height="340">
-
+![png](README_files/cross_validation.png)
 
 ```python
 from sklearn.model_selection import KFold
