@@ -891,7 +891,7 @@ for idx, data in enumerate(digits.images[0:10]):
 
 ##### Hold-out
 
-<img src="hold-out.png" width="400" height="80">
+<img src="README_files/hold-out.png" width="400" height="80">
 
 
 ```python
@@ -1061,7 +1061,7 @@ for i in digits.target_names:
 
 #### Cross Validation
 
-<img src="cross_validation.png" width="500" height="340">
+<img src="README_files/cross_validation.png" width="500" height="340">
 
 
 ```python
